@@ -1,3 +1,4 @@
+/*Write a program that describes a class Employee. It should have instance variables to record id, name, phone number, Designation, Department. Create an Employee object. Set and display its instance variables.*/
 class Employee
   {
        int r;
