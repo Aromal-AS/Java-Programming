@@ -1,3 +1,4 @@
+/*Write a program that creates a class Circle with constructor and find its area.*/
 import java.util.*;
 class AreaCircle
 {
