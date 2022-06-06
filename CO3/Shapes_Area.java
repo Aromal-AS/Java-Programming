@@ -34,4 +34,3 @@ public static void main(String args[])
 }
 }
 
-/*Area of different shapes using overloaded functions.*/
